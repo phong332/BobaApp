@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayScreen
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 51
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 9334e0cbebeab0c4680e160bbf6f3d31, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1c9c67b00b636ed4a822ef8d44ebae75, type: 3}
+  - {fileID: 21300000, guid: 82ef6751110820e43a4bd4a45a7d9ef9, type: 3}
+  - {fileID: 21300000, guid: f7fe7851223d72d41bd9d9fe5d69790b, type: 3}
+  - {fileID: 21300000, guid: b1fc3a32e49bf034f95f9c89b3336974, type: 3}
+  - {fileID: 21300000, guid: b9b95a52e5f6dff428d399ef66e03717, type: 3}
+  - {fileID: 21300000, guid: 95889a43d196bad41b05254125e408a2, type: 3}
+  - {fileID: 21300000, guid: ed816dc3c7653014ca2bfba162b5cc2d, type: 3}
+  - {fileID: 21300000, guid: af59cc25ce76bb442ab86399fdac9869, type: 3}
+  - {fileID: 21300000, guid: 6ce15835617235644b6b48760774b045, type: 3}
+  - {fileID: 21300000, guid: 92c93d95e69236142b6d1db81e7585e3, type: 3}
+  - {fileID: 21300000, guid: 6dcc92b582eca6b4eb23b57a97c5c3a5, type: 3}
+  - {fileID: 21300000, guid: f5fbe5e58f8d34348ab1c7e0b561c33c, type: 3}
+  - {fileID: 21300000, guid: 23e506d703f0f2d46bc1eac5bdd78ee8, type: 3}
+  - {fileID: 21300000, guid: d3843df764bcda447893d21440ea4099, type: 3}
+  - {fileID: 21300000, guid: 0524d818e8e8eb34684f2a209ad3862e, type: 3}
+  - {fileID: 21300000, guid: e5c97c18313021d4586a9ae6920f33cf, type: 3}
+  - {fileID: 21300000, guid: 6e4d69389303f4e429702b409884a0f7, type: 3}
+  - {fileID: 21300000, guid: c7e82a387a90f5540920417aa81dd7ab, type: 3}
+  - {fileID: 21300000, guid: 1137025881a0a904bbcc35d6dc785c48, type: 3}
+  - {fileID: 21300000, guid: 9b8d84e843a3eb047a4cb2020dfbbb7b, type: 3}
+  - {fileID: 21300000, guid: a323ea4ae73f14f4196b1d030343f817, type: 3}
+  - {fileID: 21300000, guid: 8882549a3d07ef74f9292a176d0d5207, type: 3}
+  - {fileID: 21300000, guid: af969bfa529c5ca47b252eaca5337432, type: 3}
+  - {fileID: 21300000, guid: cea6163b3cf37d74e849a035985917ae, type: 3}
+  - {fileID: 21300000, guid: fbab2a6b04bce32499229aa208577146, type: 3}
+  - {fileID: 21300000, guid: 65eacd8bc9ef3cc4aa300f2dd36b0def, type: 3}
+  - {fileID: 21300000, guid: 98e96cfbe08a1a2459c0bd9f91e0371a, type: 3}
+  - {fileID: 21300000, guid: 477b532c7ebd5dc4b8950b75a0293270, type: 3}
+  - {fileID: 21300000, guid: c088e94c6328d1e4698521c6c7910671, type: 3}
+  - {fileID: 21300000, guid: b9652e9c3ce6956409408c0ddb36cd6b, type: 3}
+  - {fileID: 21300000, guid: 33b4340dee632ca40b600416af66ce1d, type: 3}
+  - {fileID: 21300000, guid: 203afa2dd87f8dd42a5b5a401a5d1bae, type: 3}
+  - {fileID: 21300000, guid: a1a56a3dfe41ad54caf256baa65f6152, type: 3}
+  - {fileID: 21300000, guid: fbef752ed07fc7341a36c8420e66a522, type: 3}
+  - {fileID: 21300000, guid: a92fea5e9d5fa714ea2f01c2332be77c, type: 3}
+  - {fileID: 21300000, guid: 4b2118eea9fbe5e48af052d9d8ba686f, type: 3}
+  - {fileID: 21300000, guid: 65fdf37f9d2673940bc00bb54e2dcf4a, type: 3}
+  - {fileID: 21300000, guid: eb6bdddfe1259444e8bf53b18c994de7, type: 3}
+  - {fileID: 21300000, guid: 81ba70efc78e43f45bade3e3f6614ad8, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - drink_background
+  - Arrow
+  - bar
+  - add_topping
+  - change_liquid_color_background
+  - arrow_right 1
+  - text_field
+  - background1
+  - input_field
+  - button
+  - ic_glass
+  - continue_button
+  - ic_delete
+  - table
+  - dialog_selection_bg
+  - faucet
+  - human
+  - background4
+  - background2
+  - hand
+  - ic_save
+  - phone
+  - ic_lock
+  - ic_setting
+  - circle_with_shadow
+  - ok_button
+  - arrow_left
+  - add_button
+  - addtion_dialog_background
+  - ic_faucet_settings
+  - ic_straw
+  - dialog_bg
+  - shadow
+  - color_bar
+  - circle
+  - background3
+  - select_button
+  - background5
+  - change_background
+  m_RenderDataMap: {}
+  m_Tag: PlayScreen
+  m_IsVariant: 0

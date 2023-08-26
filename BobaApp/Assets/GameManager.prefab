@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &455000469687949076
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 455000469687949079}
+  - component: {fileID: 455000469687949078}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &455000469687949079
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 455000469687949076}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &455000469687949078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 455000469687949076}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af41db45bbe84ec4ca774efb7251570e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  endGame: 0
+  panelChoose: {fileID: 0}
+  faucet: {fileID: 0}
+  lstIngredient:
+  - typeBeverage: 0
+    lstTopping:
+    - prefebTopping: {fileID: 3874979916058207216, guid: ad205b1516e64114fb51b351ab3ca100, type: 3}
+      number: 10
+    - prefebTopping: {fileID: 1960138640582164253, guid: 46b1666e8db19cd41bb228a67b920fb8, type: 3}
+      number: 3
+    - prefebTopping: {fileID: 1288283980109717624, guid: 8b7f0e6b798be2a4a841ea9a0599b624, type: 3}
+      number: 5
+    - prefebTopping: {fileID: 5517528189844064901, guid: 83f044e297bbd164e92ee1133a3e2286, type: 3}
+      number: 5
+    - prefebTopping: {fileID: 1339059298324551333, guid: 25773fed394d6de4da8feee188297e25, type: 3}
+      number: 10
+    waterColor: {r: 0.94509804, g: 0.5764706, b: 0.94509804, a: 0.7176471}
+    glass: {fileID: 0}
+    timeFillWater: 0.5
+    timeFillTopping: 0.3
+  - typeBeverage: 1
+    lstTopping:
+    - prefebTopping: {fileID: 3874979916058207216, guid: ad205b1516e64114fb51b351ab3ca100, type: 3}
+      number: 10
+    - prefebTopping: {fileID: 1288283980109717624, guid: 8b7f0e6b798be2a4a841ea9a0599b624, type: 3}
+      number: 4
+    - prefebTopping: {fileID: 7381116466806625820, guid: e65311bc5402d664e93937f2835207e9, type: 3}
+      number: 3
+    - prefebTopping: {fileID: 6282599309362585119, guid: db16f23423d08f14b8f6074aaa5f872a, type: 3}
+      number: 5
+    - prefebTopping: {fileID: 8791912091501934899, guid: cdb01564bb516304e877615b080a69f2, type: 3}
+      number: 2
+    - prefebTopping: {fileID: 1960433943625081801, guid: dc4e138d1fcdf854c97b610e65b80ba0, type: 3}
+      number: 5
+    - prefebTopping: {fileID: 5509972321764403785, guid: 3b5e15d090b801b43bf4930fdfc55601, type: 3}
+      number: 10
+    waterColor: {r: 0.8627451, g: 0.8980392, b: 0.5254902, a: 1}
+    glass: {fileID: 0}
+    timeFillWater: 0.5
+    timeFillTopping: 0.3
+  - typeBeverage: 2
+    lstTopping:
+    - prefebTopping: {fileID: 3874979916058207216, guid: ad205b1516e64114fb51b351ab3ca100, type: 3}
+      number: 5
+    - prefebTopping: {fileID: 1288283980109717624, guid: 8b7f0e6b798be2a4a841ea9a0599b624, type: 3}
+      number: 6
+    - prefebTopping: {fileID: 3874979916058207216, guid: ad205b1516e64114fb51b351ab3ca100, type: 3}
+      number: 3
+    - prefebTopping: {fileID: 6114711465532217822, guid: 647c68cf2469ea949871b91a91417276, type: 3}
+      number: 3
+    - prefebTopping: {fileID: 1960433943625081801, guid: dc4e138d1fcdf854c97b610e65b80ba0, type: 3}
+      number: 4
+    - prefebTopping: {fileID: 1960138640582164253, guid: 46b1666e8db19cd41bb228a67b920fb8, type: 3}
+      number: 1
+    - prefebTopping: {fileID: 6282599309362585119, guid: db16f23423d08f14b8f6074aaa5f872a, type: 3}
+      number: 5
+    - prefebTopping: {fileID: 5254503375866921910, guid: 5acf80c7a78dc7c4e8684bd081748665, type: 3}
+      number: 4
+    - prefebTopping: {fileID: 5509972321764403785, guid: 3b5e15d090b801b43bf4930fdfc55601, type: 3}
+      number: 5
+    - prefebTopping: {fileID: 1339059298324551333, guid: 25773fed394d6de4da8feee188297e25, type: 3}
+      number: 5
+    waterColor: {r: 0.95686275, g: 0.5019608, b: 0.48235294, a: 1}
+    glass: {fileID: 0}
+    timeFillWater: 0.5
+    timeFillTopping: 0.3
+  toppingHolder: {fileID: 0}
+  btnAll: {fileID: 0}
+  currentIndexBeverage: 1

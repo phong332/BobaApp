@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: StartScreen
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 51
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: af0a3f524a8e36646ac1b53afdb2fce9, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3256127281a96f04ebb6d15c44eb8da0, type: 3}
+  - {fileID: 21300000, guid: da671d83068a5f642979e625fceeb711, type: 3}
+  - {fileID: 21300000, guid: 09e865159c839f944a8d80a9b8ad1eab, type: 3}
+  - {fileID: 21300000, guid: 2f1dd745959472d4aa15c4123d310258, type: 3}
+  - {fileID: 21300000, guid: bf9619656c3392a41b5f96009c10632c, type: 3}
+  - {fileID: 21300000, guid: ac8654e67751ee4448b22b524d0b448e, type: 3}
+  - {fileID: 21300000, guid: d370e9a7a5338d44389052dab01f5069, type: 3}
+  - {fileID: 21300000, guid: cefd210941a17eb46b55755857181367, type: 3}
+  - {fileID: 21300000, guid: 17dc9ae937220c04fb09e83403ff6ff5, type: 3}
+  - {fileID: 21300000, guid: c5023ffead42818408d5bb1ac86792b9, type: 3}
+  - {fileID: 21300000, guid: e3085b2fc3bd80a43a7549f44b714cf9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - boba2
+  - diy
+  - Drink Simulator
+  - order_now
+  - ic_sound_off
+  - background
+  - ic_sound_on
+  - setting
+  - ic_shake_on
+  - play
+  - ic_shake_off
+  m_RenderDataMap: {}
+  m_Tag: StartScreen
+  m_IsVariant: 0

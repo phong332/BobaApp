@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DrinkSelection
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 51
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 8a958167f90a26d4a81130995573de3f, type: 3}
+    - {fileID: 102900000, guid: 95f86ff983c4d0046b5afd7ff0254ec8, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 79f3194001caa4a4a91d0fa921c0731c, type: 3}
+  - {fileID: 21300000, guid: b902ef50c526ca344ae64c9ab400a81b, type: 3}
+  - {fileID: 21300000, guid: 3d121bc0fac5ff54fa4e7b9e4a8be274, type: 3}
+  - {fileID: 21300000, guid: 76d8e9d01fb32f740aa8f0f0f97c7162, type: 3}
+  - {fileID: 21300000, guid: ffa570f001e2805408d3eef705201292, type: 3}
+  - {fileID: 21300000, guid: 91fc54f0436f4dd438aaec00a2f2cd41, type: 3}
+  - {fileID: 21300000, guid: b1410af0c63392c4490c90f8b8f78a5f, type: 3}
+  - {fileID: 21300000, guid: 79fcdb01e9da1614e9da0a434b00ce56, type: 3}
+  - {fileID: 21300000, guid: bd08f541099648f4b88ec10889b64d8d, type: 3}
+  - {fileID: 21300000, guid: 58c8e741e84793945abc55c616ef89e4, type: 3}
+  - {fileID: 21300000, guid: 5c86ee6124e89604f9786595237000da, type: 3}
+  - {fileID: 21300000, guid: 3a914d71a7d09784cb87c6e694d6dd35, type: 3}
+  - {fileID: 21300000, guid: dc2591a1075df9f4a86d17242e37c8ac, type: 3}
+  - {fileID: 21300000, guid: 7fc9ada14a47d0649b58e010a204182e, type: 3}
+  - {fileID: 21300000, guid: b1b417921d8adbb42893db46bc5d5e0c, type: 3}
+  - {fileID: 21300000, guid: 29761e92248fb714fa393be7e85c33b1, type: 3}
+  - {fileID: 21300000, guid: e2ddfb232c64aa64a933b6c6bb8f80b0, type: 3}
+  - {fileID: 21300000, guid: b89dd263e2e3af44ab37a75ed4f5147d, type: 3}
+  - {fileID: 21300000, guid: 1ca67f145488ce64682493376e9b77b1, type: 3}
+  - {fileID: 21300000, guid: dc6d2344a5d763446bfa682eb0efdad5, type: 3}
+  - {fileID: 21300000, guid: 64ca17440ba18c44d929cce462bfa323, type: 3}
+  - {fileID: 21300000, guid: 460eaf841ed812d45ae4fc8a8b1bc15c, type: 3}
+  - {fileID: 21300000, guid: 98487dc4ca60dc043bba9406379fa1ad, type: 3}
+  - {fileID: 21300000, guid: bc9f804566a3ad7449969d19ef7f39d0, type: 3}
+  - {fileID: 21300000, guid: 282d7ef50f526dd47aca8fa620add529, type: 3}
+  - {fileID: 21300000, guid: 6cebf7560cac0494eb65f9e538b07d81, type: 3}
+  - {fileID: 21300000, guid: 4bd81066685dcf349a780a242356dfb6, type: 3}
+  - {fileID: 21300000, guid: 139e88667ae0cf9409f597d57c7fd86c, type: 3}
+  - {fileID: 21300000, guid: fb72b2a6d4f86a842a68e436d8155887, type: 3}
+  - {fileID: 21300000, guid: 53386da649be48e46afd272ea445fd83, type: 3}
+  - {fileID: 21300000, guid: f8d939e6ae7c56d45944226669d72a90, type: 3}
+  - {fileID: 21300000, guid: db959af632d363a4d86df236838f2533, type: 3}
+  - {fileID: 21300000, guid: e3bc5117ac7837447a147b504f943b2c, type: 3}
+  - {fileID: 21300000, guid: f7429067d5b37fd4a8a3cf28419dc1f5, type: 3}
+  - {fileID: 21300000, guid: 5e6fd067cf042644284ac7f34fda2cce, type: 3}
+  - {fileID: 21300000, guid: 14801b7782d82744fb9522c8d34783dc, type: 3}
+  - {fileID: 21300000, guid: e739eeb78c250a04d9fb48416e9a5343, type: 3}
+  - {fileID: 21300000, guid: 6adea418d72d65641bca2d154c6370be, type: 3}
+  - {fileID: 21300000, guid: 4c1e2428a96398347827c25f34ce3e52, type: 3}
+  - {fileID: 21300000, guid: e4a6b84868a51a144adad1cf7f71a2ba, type: 3}
+  - {fileID: 21300000, guid: c6288958ee4715c4aab973d9ff3005d9, type: 3}
+  - {fileID: 21300000, guid: b68db8785a655674b9811c13c0d79740, type: 3}
+  - {fileID: 21300000, guid: b7bfa3885fcc360408e3fbe184d519b8, type: 3}
+  - {fileID: 21300000, guid: 1a830298a2f9d4345ab4ee9c2c2a9fb0, type: 3}
+  - {fileID: 21300000, guid: 1d05b59838dc2774b85a7850c4ac2936, type: 3}
+  - {fileID: 21300000, guid: bbae92190d1136e4c9a2f4cfcb3f3520, type: 3}
+  - {fileID: 21300000, guid: cadb1e19dcf10c24f8815bc12aa4be8d, type: 3}
+  - {fileID: 21300000, guid: 34398f29ecf01754fbbe6a27a568ae00, type: 3}
+  - {fileID: 21300000, guid: 0b097059651edbb479cce091834828e8, type: 3}
+  - {fileID: 21300000, guid: 8ed2b8791ad08cd4cb1897c88931abdd, type: 3}
+  - {fileID: 21300000, guid: dd15220ae893f7e4b9e9bf0cef87dee0, type: 3}
+  - {fileID: 21300000, guid: 5c4c7b5a845c44f4f9addddd58e56848, type: 3}
+  - {fileID: 21300000, guid: bae59e7aa340dce4c97ce167ae68c80c, type: 3}
+  - {fileID: 21300000, guid: 7dbb4aeaf8ed7074fa8516b936b2072e, type: 3}
+  - {fileID: 21300000, guid: 69cbd81b0cd1c7544b600a7d505cf1fe, type: 3}
+  - {fileID: 21300000, guid: 64d9105b9e07fb44d995e1ecd229828f, type: 3}
+  - {fileID: 21300000, guid: 4286007b06190e2449091c35278e64b0, type: 3}
+  - {fileID: 21300000, guid: e29844cb9f072ae4f9fd08e431307a83, type: 3}
+  - {fileID: 21300000, guid: e240adcb659903f44a815da8a8da8718, type: 3}
+  - {fileID: 21300000, guid: 9ee061dbf2969de43833fdd15bae7b9f, type: 3}
+  - {fileID: 21300000, guid: ba5952db38887394281e2ab40dc58ca1, type: 3}
+  - {fileID: 21300000, guid: 08c7865c8f1f4d74b999d50560cdaac0, type: 3}
+  - {fileID: 21300000, guid: 5ac4399cebdb6404fa64e44b15469f11, type: 3}
+  - {fileID: 21300000, guid: 255b83cc9d7efbf44b7e1bfd38158550, type: 3}
+  - {fileID: 21300000, guid: b9f6fe0d1d2ade64484e3724fc741d43, type: 3}
+  - {fileID: 21300000, guid: db40b46d1fc91d645a925eac1760adcf, type: 3}
+  - {fileID: 21300000, guid: e84eabed546a57045856eb7e5f4f174b, type: 3}
+  - {fileID: 21300000, guid: f296cafd986413844899a07fd674e39e, type: 3}
+  - {fileID: 21300000, guid: 6343b98ed988272428fde174e3929231, type: 3}
+  - {fileID: 21300000, guid: ca32a4be9593d1940869efcf1c56fe7f, type: 3}
+  - {fileID: 21300000, guid: ba63380f09ae9fa429e51be1b6bbdbf8, type: 3}
+  - {fileID: 21300000, guid: 9dd15c0f5b2a6d74b8eb6ec841076158, type: 3}
+  - {fileID: 21300000, guid: c354b16f858085743b991f52d36a1f7f, type: 3}
+  - {fileID: 21300000, guid: 4838196f739584d4892e05e4846e0244, type: 3}
+  - {fileID: 21300000, guid: e0ee447fa2d364441920a8f977626b24, type: 3}
+  - {fileID: 21300000, guid: a9f583cf8a71057499e9ba16d7f106e5, type: 3}
+  - {fileID: 21300000, guid: cf6ab3ef2f51ab54d92a9f49a805d3d8, type: 3}
+  - {fileID: 21300000, guid: e887d2ff92554c94ba5e893a43a23b64, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - s_mt_5
+  - gj_lemon
+  - gj_strawberry
+  - 12
+  - Juice09
+  - milktea06
+  - mt_hit
+  - store2
+  - 13
+  - Juice07
+  - shadows
+  - gj_mint
+  - mt_popular
+  - 1
+  - cup_0
+  - gj_cocacola
+  - mydrink
+  - Juice08
+  - s_mt_8
+  - ic_mix_fuice
+  - milktea03
+  - tab_off_juice
+  - Juice05
+  - menu_background
+  - background
+  - gj_orange
+  - empty_glass
+  - mt_supper_hit
+  - tab_on_bubble_tea
+  - s_mt_7
+  - 14
+  - s_mt_2
+  - 15
+  - store
+  - 6
+  - 16
+  - mt_best
+  - milktea04
+  - 2
+  - Juice02
+  - milktea07
+  - milktea05
+  - 3
+  - mt_top
+  - tab_on_juice
+  - milktea02
+  - ic_addtion
+  - s_mt_3
+  - 5
+  - ic_delete
+  - s_mt_1
+  - talk
+  - 9
+  - tab_off_bubble_tea
+  - gj_peaches
+  - 8
+  - s_mt_4
+  - Juice03
+  - Juice01
+  - s_mt_6
+  - mydrink2
+  - Juice04
+  - back_button
+  - milktea01
+  - 11
+  - gj_yogurt
+  - mt_special
+  - gj_mix
+  - milktea08
+  - Juice06
+  - 7
+  - gj_watermelon
+  - Ad-badge
+  - 4
+  - 10
+  - mt_new
+  - mt_wow
+  - bt_ads
+  m_RenderDataMap: {}
+  m_Tag: DrinkSelection
+  m_IsVariant: 0

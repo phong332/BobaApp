@@ -1,0 +1,203 @@
+{
+  "BuildID": "eb73cc03-2827-4785-bf4c-c83160fefcd8",
+  "Command": "project:build",
+  "ProjectID": "7a299087-6f8f-4237-a02e-07106cb1cecc",
+  "ProjectStateHash": "a2961003a7f56690125341811169eeda22c318fe2a1bc59e44537fb9b61af0a1",
+  "StageCompletedAt": 3,
+  "EarliestFatalError": 0,
+  "StartTime": 1692961589712,
+  "EndTime": 1692961618835,
+  "PlaygroundUserID": 8338,
+  "OperatingSystem": "win32",
+  "UnityPackageID": null,
+  "TargetPlatform": "playground",
+  "UnityVersion": "2021.3.28f1",
+  "LunaVersion": "5.2.0",
+  "LogCount": 8,
+  "Logs": [
+    {
+      "LogID": "b986e70c-c349-4527-8a09-e28fb330d60a",
+      "Order": 7,
+      "Timestamp": 1692961620237,
+      "Stage": 3,
+      "ErrorType": 3,
+      "ErrorCode": "LP3008",
+      "Description": "You are only using: 1 custom events.",
+      "Details": [
+        "You are only using 1 custom events. It is recommended to use more custom events to have a better understanding of the playable."
+      ],
+      "DescriptionValues": [
+        "1"
+      ],
+      "DetailsValues": [
+        "1"
+      ],
+      "LogCount": 1,
+      "LinePosition": null,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "52b1660d-385c-4e55-859d-d3f07cfa9dba",
+      "Order": 7,
+      "Timestamp": 1692961620238,
+      "Stage": 3,
+      "ErrorType": 3,
+      "ErrorCode": "LP3011",
+      "Description": "You are not using any LunaPlaygroundFields attributes.",
+      "Details": [
+        "You are not using any LunaPlaygroundFields attributes, it allows you to configure your playable to different concepts to find the best variation, which can drastically improve playable performance on all ad networks."
+      ],
+      "DescriptionValues": null,
+      "DetailsValues": null,
+      "LogCount": 1,
+      "LinePosition": null,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "50147312-0adc-4b76-9325-3b3e20edbac9",
+      "Order": 0,
+      "Timestamp": 1692961591983,
+      "Stage": 1,
+      "ErrorType": 0,
+      "ErrorCode": "LP1012",
+      "Description": "Export Error: An item with the same key has already been added. Key: Legacy Shaders/VertexLit (UnityEngine.Shader)",
+      "Details": [
+        "Water2D/Metaballs_RegularFresnel",
+        ""
+      ],
+      "DescriptionValues": [
+        "An item with the same key has already been added. Key: Legacy Shaders/VertexLit (UnityEngine.Shader)"
+      ],
+      "DetailsValues": [],
+      "LogCount": 1,
+      "LinePosition": 0,
+      "FilePath": "Assets/Water2D/Shaders/Metaballs_RegularFresnel.shader",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "e57648ac-eeeb-40d4-8fb9-434913c034c5",
+      "Order": 1,
+      "Timestamp": 1692961593621,
+      "Stage": 1,
+      "ErrorType": 0,
+      "ErrorCode": "LP1030",
+      "Description": "TMP Font Asset uses unsupported 'Atlas Population Mode'",
+      "Details": [
+        "TMP Font Asset '{0}' uses Atlas Population Mode '{1}' which is not supported"
+      ],
+      "DescriptionValues": [],
+      "DetailsValues": [
+        "LiberationSans SDF - Fallback",
+        "Dynamic"
+      ],
+      "LogCount": 1,
+      "LinePosition": 0,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "3550290e-778f-4268-bdf0-f8a94279eff1",
+      "Order": 2,
+      "Timestamp": 1692961595117,
+      "Stage": 1,
+      "ErrorType": 2,
+      "ErrorCode": "LP1024",
+      "Description": "Huge RAM usage",
+      "Details": [
+        "Playable have huge RAM usage (352.82 MB). Recommended RAM value is lower than 256.00 MB to support low-end devices"
+      ],
+      "DescriptionValues": [],
+      "DetailsValues": [
+        "256.00",
+        "352.82"
+      ],
+      "LogCount": 1,
+      "LinePosition": 0,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "53843823-82dd-4da9-8eb7-700b095fbedb",
+      "Order": 3,
+      "Timestamp": 1692961595128,
+      "Stage": 1,
+      "ErrorType": 0,
+      "ErrorCode": "LP1032",
+      "Description": "Package(s) is not supported in Luna",
+      "Details": [
+        "Currently package(s) {0} is not supported in the Luna. We recommend you to remove it and workaround it's functionality."
+      ],
+      "DescriptionValues": [],
+      "DetailsValues": [
+        "com.unity.timeline"
+      ],
+      "LogCount": 1,
+      "LinePosition": 0,
+      "FilePath": "Z:/Github/BobaApp/BobaApp/Packages\\manifest.json",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "81cbf038-718b-462d-a86b-499c64b501b1",
+      "Order": 4,
+      "Timestamp": 1692961595130,
+      "Stage": 1,
+      "ErrorType": 2,
+      "ErrorCode": "LP1010",
+      "Description": "Looks like a collider was scaled, this might affect performance.",
+      "Details": [
+        "Looks like EffectQuad collider on EffectQuad game object was scaled, this might affect performance."
+      ],
+      "DescriptionValues": [],
+      "DetailsValues": [
+        "EffectQuad",
+        "EffectQuad"
+      ],
+      "LogCount": 1,
+      "LinePosition": 0,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "f20384f2-e181-432d-ab48-165027f68b27",
+      "Order": 5,
+      "Timestamp": 1692961595130,
+      "Stage": 1,
+      "ErrorType": 2,
+      "ErrorCode": "LP1005",
+      "Description": "Hidden/BlitCopy: Tags: \"LIGHTMODE\"=\"ALWAYS\"\n has problems",
+      "Details": [
+        "Hidden/BlitCopy",
+        "Hidden/Internal-ScreenSpaceShadows",
+        "Standard",
+        "Legacy Shaders/VertexLit",
+        "TextMeshPro/Sprite"
+      ],
+      "DescriptionValues": [
+        "Hidden/BlitCopy: Tags: \"LIGHTMODE\"=\"ALWAYS\"\n"
+      ],
+      "DetailsValues": [],
+      "LogCount": 5,
+      "LinePosition": 0,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    }
+  ]
+}

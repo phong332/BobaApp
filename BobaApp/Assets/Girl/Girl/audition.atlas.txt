@@ -1,0 +1,160 @@
+
+audition.png
+size: 411,752
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BGAU_00001
+  rotate: true
+  xy: 378, 214
+  size: 34, 30
+  orig: 236, 375
+  offset: 57, 72
+  index: -1
+BGAU_00002
+  rotate: false
+  xy: 269, 498
+  size: 43, 34
+  orig: 236, 375
+  offset: 54, 72
+  index: -1
+BGAU_00003
+  rotate: false
+  xy: 269, 534
+  size: 55, 42
+  orig: 236, 375
+  offset: 54, 70
+  index: -1
+BGAU_00004
+  rotate: false
+  xy: 269, 578
+  size: 60, 46
+  orig: 236, 375
+  offset: 54, 71
+  index: -1
+BGAU_00005
+  rotate: false
+  xy: 334, 607
+  size: 72, 52
+  orig: 236, 375
+  offset: 54, 71
+  index: -1
+BGAU_00006
+  rotate: true
+  xy: 334, 661
+  size: 89, 62
+  orig: 236, 375
+  offset: 54, 71
+  index: -1
+BGAU_00007
+  rotate: true
+  xy: 331, 498
+  size: 107, 78
+  orig: 236, 375
+  offset: 54, 70
+  index: -1
+BGAU_00008
+  rotate: false
+  xy: 123, 18
+  size: 117, 93
+  orig: 236, 375
+  offset: 54, 70
+  index: -1
+BGAU_00009
+  rotate: false
+  xy: 245, 24
+  size: 123, 108
+  orig: 236, 375
+  offset: 55, 70
+  index: -1
+BGAU_00010
+  rotate: false
+  xy: 2, 246
+  size: 126, 123
+  orig: 236, 375
+  offset: 55, 70
+  index: -1
+BGAU_00011
+  rotate: false
+  xy: 135, 359
+  size: 121, 135
+  orig: 236, 375
+  offset: 64, 72
+  index: -1
+BGAU_00012
+  rotate: true
+  xy: 269, 372
+  size: 124, 133
+  orig: 236, 375
+  offset: 64, 83
+  index: -1
+BGAU_00013
+  rotate: true
+  xy: 135, 496
+  size: 128, 132
+  orig: 236, 375
+  offset: 66, 85
+  index: -1
+BGAU_00014
+  rotate: true
+  xy: 2, 495
+  size: 129, 131
+  orig: 236, 375
+  offset: 66, 92
+  index: -1
+BGAU_00015
+  rotate: false
+  xy: 2, 371
+  size: 129, 122
+  orig: 236, 375
+  offset: 66, 101
+  index: -1
+BGAU_00016
+  rotate: true
+  xy: 130, 228
+  size: 129, 120
+  orig: 236, 375
+  offset: 66, 103
+  index: -1
+BGAU_00017
+  rotate: false
+  xy: 258, 250
+  size: 132, 120
+  orig: 236, 375
+  offset: 66, 103
+  index: -1
+BGAU_00018
+  rotate: true
+  xy: 2, 117
+  size: 127, 120
+  orig: 236, 375
+  offset: 66, 103
+  index: -1
+BGAU_00019
+  rotate: false
+  xy: 252, 134
+  size: 124, 114
+  orig: 236, 375
+  offset: 66, 103
+  index: -1
+BGAU_00020
+  rotate: false
+  xy: 124, 113
+  size: 119, 113
+  orig: 236, 375
+  offset: 66, 103
+  index: -1
+BGAU_00021
+  rotate: false
+  xy: 2, 2
+  size: 119, 113
+  orig: 236, 375
+  offset: 66, 103
+  index: -1
+Layer 757
+  rotate: true
+  xy: 2, 626
+  size: 124, 330
+  orig: 124, 330
+  offset: 0, 0
+  index: -1

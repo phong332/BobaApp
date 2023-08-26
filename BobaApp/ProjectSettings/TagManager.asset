@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Metaball_liquid
+  - Liquid
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Glasses
+  - Water
+  - UI
+  - Fluids
+  - Toppings
+  - Ice
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2147753513
+    locked: 0
+  - name: Girl
+    uniqueID: 3669068573
+    locked: 0
+  - name: Canvas
+    uniqueID: 3944801803
+    locked: 0
+  - name: Object
+    uniqueID: 731431277
+    locked: 0

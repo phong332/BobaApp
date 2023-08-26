@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: toppings
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 0b907d9c6f0553f4197993e2966dcb4d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f231e050275200c4ead3b0ca1d30b13d, type: 3}
+  - {fileID: 21300000, guid: 1d8942c0c92b4ec47a9d828ee69282d8, type: 3}
+  - {fileID: 21300000, guid: 4f81cae0edc6daf4abae0b1015fd035d, type: 3}
+  - {fileID: 21300000, guid: 5e1de4f0e395e0c459670ad07473ffa2, type: 3}
+  - {fileID: 21300000, guid: 186147b268e9d6549a8a782aaf163050, type: 3}
+  - {fileID: 21300000, guid: 23c0e403f006e114599ff154a0c4a8b1, type: 3}
+  - {fileID: 21300000, guid: 06c3a153b2ec1014c9d61ee46e6f93c6, type: 3}
+  - {fileID: 21300000, guid: f7dac3530d0e923499c27f0d216c66ee, type: 3}
+  - {fileID: 21300000, guid: b12538e32cde73d4b81c69eaeebf4fc1, type: 3}
+  - {fileID: 21300000, guid: 333ef0642c720154baaeec5601695721, type: 3}
+  - {fileID: 21300000, guid: b1b2b1d4b028c854aaaec55b480d4abb, type: 3}
+  - {fileID: 21300000, guid: e21417f5f0c14d94dbd53e198d895b46, type: 3}
+  - {fileID: 21300000, guid: 67807c1698ef9cd48bddd1abe225a17a, type: 3}
+  - {fileID: 21300000, guid: fd9b5966ebf198b4fa1b7455e35512aa, type: 3}
+  - {fileID: 21300000, guid: f070eb47f3ea6534d835856d33c8ec05, type: 3}
+  - {fileID: 21300000, guid: 9f891aa7e99af184f8e44ce900c8f599, type: 3}
+  - {fileID: 21300000, guid: dc07fd48bf0bada4b889fc7670a4a0aa, type: 3}
+  - {fileID: 21300000, guid: 9df0c168b4e48a84db5f94b9ac9fa98f, type: 3}
+  - {fileID: 21300000, guid: fac9cfd83adb30f47b67a5763db937c6, type: 3}
+  - {fileID: 21300000, guid: d61f1339a14da8c40a92a64ad524fd1a, type: 3}
+  - {fileID: 21300000, guid: 721574d9c388d434cb396d03616d5756, type: 3}
+  - {fileID: 21300000, guid: 173bd1bab6eb50d43943cfb9e7bc372c, type: 3}
+  - {fileID: 21300000, guid: 1bea5d2bdd5faf742ba8bc09804e2475, type: 3}
+  - {fileID: 21300000, guid: 82ed743ba22b9114486369c63f065bd9, type: 3}
+  - {fileID: 21300000, guid: 6f70970c35d2283409b2b0f24b349b11, type: 3}
+  - {fileID: 21300000, guid: 3cacb95cb44a33b4b8e636d64ffcd66c, type: 3}
+  - {fileID: 21300000, guid: 5c4482ac39c4bd344927ba98cf2b5c17, type: 3}
+  - {fileID: 21300000, guid: a63d672d1ee928f478fa7872d6e83290, type: 3}
+  - {fileID: 21300000, guid: 45105c2d6b3cd074cbf50db4624cc09e, type: 3}
+  - {fileID: 21300000, guid: 2d3df03d7bcd92f42820df2a65723372, type: 3}
+  - {fileID: 21300000, guid: 2975f69daddad3845a5c0bbf083cdf27, type: 3}
+  - {fileID: 21300000, guid: 86fc69de428d4d249b8c8c2a12784531, type: 3}
+  - {fileID: 21300000, guid: edf5d8fe230e42342a0e4890bdb70f5d, type: 3}
+  - {fileID: 21300000, guid: 7e45a07ff31524045976236ef42d6b31, type: 3}
+  - {fileID: 21300000, guid: 30876fcff0296e74cb2b6ce946ce0fed, type: 3}
+  - {fileID: 21300000, guid: 21a9b8efe40af03479827596f0ae09ee, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - topping04
+  - topping10
+  - topping02
+  - topping05
+  - topping08_2
+  - topping09
+  - topping11
+  - topping28
+  - topping30
+  - topping34
+  - topping23
+  - topping26
+  - topping14
+  - topping32
+  - topping22
+  - toppingIce2
+  - topping27
+  - topping25
+  - topping13
+  - topping06
+  - topping19
+  - topping24
+  - topping20_2
+  - topping12
+  - topping07
+  - topping08
+  - topping17_2
+  - topping20
+  - topping03
+  - topping01
+  - topping17
+  - topping31
+  - topping16
+  - topping33
+  - topping15
+  - topping29
+  m_RenderDataMap: {}
+  m_Tag: toppings
+  m_IsVariant: 0
