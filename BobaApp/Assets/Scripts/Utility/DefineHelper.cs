@@ -23,4 +23,5 @@ public enum EventID
     Destroy = 0,
     CheckMerge = 1,
     EndGame = 2,
+    Unlock = 3,
 }

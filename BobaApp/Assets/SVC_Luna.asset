@@ -747,16 +747,9 @@ MonoBehaviour:
     upToDate: 0
     keywords:
     - FLIP_TEXTURE
-  - shader: {fileID: 4800000, guid: fe393ace9b354375a9cb14cdbbc28be4, type: 3}
-    passType: 0
-    passId: 0
-    subShaderIndex: 0
-    upToDate: 0
-    keywords:
-    - OUTLINE_ON
   _includedShaderVariants: []
   _excludedShaderVariants: []
-  version: 108
+  version: 83
   _shaderParsedShaders:
   - ParsedSubShaders:
     - Index: 0

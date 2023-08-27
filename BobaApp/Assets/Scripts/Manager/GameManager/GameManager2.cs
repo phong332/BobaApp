@@ -10,6 +10,7 @@ public class GameManager2 : Singleton<GameManager2>
     private Faucet faucet1;
     private Faucet faucet2;
 
+    public GameObject canvasEndcard;
     void Start()
     {
         Luna.Unity.LifeCycle.GameStarted();
@@ -25,20 +26,20 @@ public class GameManager2 : Singleton<GameManager2>
     IEnumerator FillGlass()
     {
         yield return new WaitForSeconds(1);
-        StartCoroutine(StartFillGlass(0, 2f));
-        yield return new WaitForSeconds(3);
+        StartCoroutine(StartFillGlass(0, 1f));
+        yield return new WaitForSeconds(1);
         StartCoroutine(StartFillGlass(2, 1f));
-        yield return new WaitForSeconds(5);
+        yield return new WaitForSeconds(1);
         StartCoroutine(StartFillGlass(1, 1f));
+        yield return new WaitForSeconds(1);
+        canvasEndcard.SetActive(true);
     }
 
     IEnumerator StartFillGlass(int i, float timeFillWater)
     {
         SoundManager.Instance.pouring.Play();
-        float _timeFillWater = timeFillWater; 
+        float _timeFillWater = timeFillWater;
         faucet = lstFaucet[i];
-      // if (faucet != null) faucet.Clean();
-
         while (_timeFillWater > 0)
         {
             yield return new WaitForSeconds(Time.deltaTime);

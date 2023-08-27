@@ -1,0 +1,174 @@
+{
+  "BuildID": "a7393c5b-af5a-4cd1-9084-7049dabe6502",
+  "Command": "project:build",
+  "ProjectID": "7a299087-6f8f-4237-a02e-07106cb1cecc",
+  "ProjectStateHash": "721ab37d14f509222e3bac3f57e09432ec8c66e2f800f943b58d7a2d99e0b344",
+  "StageCompletedAt": 3,
+  "EarliestFatalError": 0,
+  "StartTime": 1693120075960,
+  "EndTime": 1693120106816,
+  "PlaygroundUserID": 8338,
+  "OperatingSystem": "win32",
+  "UnityPackageID": null,
+  "TargetPlatform": "develop",
+  "UnityVersion": "2021.3.28f1",
+  "LunaVersion": "5.2.0",
+  "LogCount": 7,
+  "Logs": [
+    {
+      "LogID": "b502d995-584c-4d39-b5f3-34b5593398a0",
+      "Order": 6,
+      "Timestamp": 1693120108100,
+      "Stage": 3,
+      "ErrorType": 3,
+      "ErrorCode": "LP3008",
+      "Description": "You are only using: 1 custom events.",
+      "Details": [
+        "You are only using 1 custom events. It is recommended to use more custom events to have a better understanding of the playable."
+      ],
+      "DescriptionValues": [
+        "1"
+      ],
+      "DetailsValues": [
+        "1"
+      ],
+      "LogCount": 1,
+      "LinePosition": null,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "276ff73f-dfe0-4c0a-9d21-3fbf9a6d3abe",
+      "Order": 6,
+      "Timestamp": 1693120108101,
+      "Stage": 3,
+      "ErrorType": 3,
+      "ErrorCode": "LP3011",
+      "Description": "You are not using any LunaPlaygroundFields attributes.",
+      "Details": [
+        "You are not using any LunaPlaygroundFields attributes, it allows you to configure your playable to different concepts to find the best variation, which can drastically improve playable performance on all ad networks."
+      ],
+      "DescriptionValues": null,
+      "DetailsValues": null,
+      "LogCount": 1,
+      "LinePosition": null,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "0825ab04-8422-45fc-b038-f42013b09053",
+      "Order": 0,
+      "Timestamp": 1693120078239,
+      "Stage": 1,
+      "ErrorType": 0,
+      "ErrorCode": "LP1012",
+      "Description": "Export Error: An item with the same key has already been added. Key: Legacy Shaders/VertexLit (UnityEngine.Shader)",
+      "Details": [
+        "Water2D/Metaballs_RegularFresnel",
+        ""
+      ],
+      "DescriptionValues": [
+        "An item with the same key has already been added. Key: Legacy Shaders/VertexLit (UnityEngine.Shader)"
+      ],
+      "DetailsValues": [],
+      "LogCount": 1,
+      "LinePosition": 0,
+      "FilePath": "Assets/Water2D/Shaders/Metaballs_RegularFresnel.shader",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "5c54db4b-3e74-49f8-8339-a1406de3ac94",
+      "Order": 1,
+      "Timestamp": 1693120080624,
+      "Stage": 1,
+      "ErrorType": 0,
+      "ErrorCode": "LP1030",
+      "Description": "TMP Font Asset uses unsupported 'Atlas Population Mode'",
+      "Details": [
+        "TMP Font Asset '{0}' uses Atlas Population Mode '{1}' which is not supported"
+      ],
+      "DescriptionValues": [],
+      "DetailsValues": [
+        "LiberationSans SDF - Fallback",
+        "Dynamic"
+      ],
+      "LogCount": 1,
+      "LinePosition": 0,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "2608a0a8-0ace-4cf8-a927-182260ddbedc",
+      "Order": 2,
+      "Timestamp": 1693120082399,
+      "Stage": 1,
+      "ErrorType": 2,
+      "ErrorCode": "LP1014",
+      "Description": "We recommend running Runtime Analysis to find and remove all unused code",
+      "Details": [
+        "Navigate to the Runtime Analysis > Code tab to enable code stripping"
+      ],
+      "DescriptionValues": [],
+      "DetailsValues": [],
+      "LogCount": 1,
+      "LinePosition": 0,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "4b66d6cc-8282-4470-84c9-5b3d83e24d68",
+      "Order": 3,
+      "Timestamp": 1693120082413,
+      "Stage": 1,
+      "ErrorType": 0,
+      "ErrorCode": "LP1032",
+      "Description": "Package(s) is not supported in Luna",
+      "Details": [
+        "Currently package(s) {0} is not supported in the Luna. We recommend you to remove it and workaround it's functionality."
+      ],
+      "DescriptionValues": [],
+      "DetailsValues": [
+        "com.unity.timeline"
+      ],
+      "LogCount": 1,
+      "LinePosition": 0,
+      "FilePath": "Z:/Github/BobaApp/BobaApp/Packages\\manifest.json",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "2c67d7f0-41b6-4102-a349-0e8d918aaa2f",
+      "Order": 4,
+      "Timestamp": 1693120082416,
+      "Stage": 1,
+      "ErrorType": 2,
+      "ErrorCode": "LP1010",
+      "Description": "Looks like a collider was scaled, this might affect performance.",
+      "Details": [
+        "Looks like EffectQuad collider on EffectQuad game object was scaled, this might affect performance."
+      ],
+      "DescriptionValues": [],
+      "DetailsValues": [
+        "EffectQuad",
+        "EffectQuad"
+      ],
+      "LogCount": 1,
+      "LinePosition": 0,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    }
+  ]
+}

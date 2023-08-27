@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/1- Regular Water 5.unity
     guid: bce3c3496caeb2e4ebd0629fbb1b1098
+  - enabled: 1
+    path: Assets/Scenes/GrimmaceShake/PLY1.unity
+    guid: 6df815c614b7fdd45b1bcc36444dffb3
   m_configObjects: {}
